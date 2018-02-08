@@ -1,2 +1,2 @@
 # Tensorflow-Examples
-learning tensorflow
+`pip install -r requirements.txt`
